@@ -1,0 +1,1 @@
+Microservicio Accounting encargado de guardar las vidas, monedas, items y registrar las transacciones.
